@@ -1,7 +1,7 @@
 An interactive tool for in-silico assessment of inclusivity of a primer-probe set. 
 ================
 
-##### Ahmed I. Alrefaey (02/08/22)
+##### Ahmed I. Alrefaey (02/08/2022)
 
 ### Introduction
 
