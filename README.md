@@ -130,7 +130,7 @@ $ obiannotate --with-taxon-at-rank=phylum --with-taxon-at-rank=class --with-taxo
 Finally, we can visualize the results of the ecoPCR analysis with Krona, which displays hierarchical data (like taxonomic assignation) in multi-layerd pie charts. For krona tool installation and usage instructions please refer to: https://github.com/marbl/Krona/wiki/KronaTools
 
 ``` bash
-$ ktImportTaxonomy -t 2 -s 3 -d 100 -n dabA ref2*.hightax.fasta -o ecoPCR_results.html
+$ ktImportTaxonomy -t 2 -s 3 -d 100 -n dabA ref2.hightax.fasta -o ecoPCR_results.html
 ```
 ![](README_files/Interactive_inclusivity.gif)
 
