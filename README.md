@@ -133,7 +133,7 @@ Finally, we can visualize the results of the ecoPCR analysis with Krona, which d
 $ ktImportTaxonomy -t 2 -s 3 -d 100 -n dabA ref2*.hightax.fasta -o ecoPCR_dabA.html
 ```
 
-@import "{{ README_files/Interactive_inclusivity.html }}";
+emb "{{ README_files/Interactive_inclusivity.html }}";
 
 
 The interactive krona chart is self-contained and can be viewed with any modern web browser.
